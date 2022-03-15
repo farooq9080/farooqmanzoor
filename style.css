@@ -1,0 +1,75 @@
+
+body {
+    margin: 0;
+    text-align: center;
+
+    background-image: url("cool-background.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+  
+}
+to
+.top {
+
+
+  height: 100%;
+  width: 100%;
+}
+.top img{
+    margin-top: 30px;
+    margin-bottom: 70px;
+}
+.ist {
+    margin-top: 0%;
+    background-color: blue;
+}
+
+.fa {
+   margin-top: auto;
+   font-family: 'Sacramento', cursive;
+    font-size: 50px;
+    line-height: 0;
+    color: rgb(119, 35, 35);
+}
+h2 {     
+    font-family: 'Montserrat', sans-ser;
+   
+}
+h4 {
+    font-family: 'Sacramento', cursive;
+    font-size: 40px;
+    color: rgb(104, 41, 41);
+    margin-top: 0px;
+    
+}
+
+.fa h1 {
+    margin-bottom: 0;
+    margin:0 auto 0 auto;
+}
+.main{
+   
+    width: 100%;
+   
+    text-align: center;
+    margin: auto;
+    color: black;
+}
+ 
+.item1 {
+    font-size: 30px;
+    font-family: 'Sacramento', cursive;
+    letter-spacing: 5px;
+    word-spacing: 3px;
+}
+.item2 {
+    font-size: 30px;
+    font-family: 'Sacramento', cursive;
+    letter-spacing: 2px;
+}
+.item2 ul{
+  list-style-type: none;
+}
+.item2 h3{
+    color: rgb(104, 41, 41);
+}
